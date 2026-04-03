@@ -70,12 +70,12 @@ Full Stack Software Developer with **3+ years** of hands-on experience across st
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafiyad&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiyad&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafiyad&theme=tokyonight" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafiyad&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nafiyad&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafiyad&theme=tokyonight" height="150"/>
 </div>
 
 ---
