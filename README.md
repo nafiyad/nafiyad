@@ -27,9 +27,9 @@ Full Stack Software Developer with **3+ years** of hands-on experience across st
 
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
-| **Expenza** | Cross-platform personal finance app shipped to Play Store & TestFlight | React Native, Node.js, Supabase, AWS, CI/CD | [Repo](https://github.com/nafiyad/expenza) |
+| **Expenza** | Cross-platform personal finance app shipped to Google Play Store & iOS TestFlight — built solo end-to-end | React Native, Node.js, Supabase, AWS, CI/CD | Private |
 | **Football Predictor Pro** | ML desktop app — 65% prediction accuracy vs 50% baseline using XGBoost/LightGBM ensemble | Python, XGBoost, LightGBM, scikit-learn, SQLite | [Repo](https://github.com/nafiyad/Football-Predictor-Pro) |
-| **Taskly** | AI-powered task management app with OpenAI API integration | React, TypeScript, Node.js, Supabase, OpenAI API | [Repo](https://github.com/nafiyad/Taskly-) |
+| **Taskly** | AI-powered task management app with OpenAI API integration for intelligent task prioritization | React, TypeScript, Node.js, Supabase, OpenAI API | Private |
 | **aden-hive/hive** | Open-source AI agent framework — contributed Wikipedia Search Tool (PR #1814) & Competitive Intelligence Agent (PR #5179) | Python, AI Agents | [Repo](https://github.com/nafiyad/hive) |
 
 ---
