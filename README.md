@@ -19,7 +19,7 @@ Full Stack Software Developer with **3+ years** of hands-on experience across st
 - 🚀 Shipped **Expenza** — a cross-platform finance app — to **Google Play Store** and **iOS TestFlight** solo
 - 💼 Built production features for a live platform at **S&M Couture** (Next.js, Prisma ORM, Stripe)
 - 🤖 Active open-source contributor to **aden-hive/hive** AI agent framework — 2 merged PRs
-- 🎓 Diploma in Software Development, **Bow Valley College** — GPA 3.73/4.0, Graduated with Distinction
+- 🎓 Software Development, **Bow Valley College** — GPA 3.73/4.0, Graduated with Distinction
 
 ---
 
