@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Nafiyad Adane</h1>
+  <h1>Nafiyad Adane Gudina</h1>
   <p><strong>Full Stack Developer · React · TypeScript · Python · Node.js · AI/ML</strong></p>
   <p>Calgary, AB, Canada · PGWP · Open to Work</p>
 </div>
