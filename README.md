@@ -110,6 +110,7 @@ For developer tools, AI benchmarks, and thoughtful products: **[get in touch](ma
   <img src="assets/tech/go.svg" alt="Go" title="Go" width="48" height="48">
   <img src="assets/tech/rust.svg" alt="Rust" title="Rust" width="48" height="48">
   <img src="assets/tech/java.svg" alt="Java" title="Java" width="48" height="48">
+  <img src="assets/tech/kotlin.svg" alt="Kotlin" title="Kotlin" width="48" height="48">
   <img src="assets/tech/csharp.svg" alt="C#" title="C#" width="48" height="48">
   <img src="assets/tech/cplusplus.svg" alt="C++" title="C++" width="48" height="48">
   <img src="assets/tech/php.svg" alt="PHP" title="PHP" width="48" height="48">
@@ -117,7 +118,7 @@ For developer tools, AI benchmarks, and thoughtful products: **[get in touch](ma
   <img src="assets/tech/css3.svg" alt="CSS3" title="CSS3" width="48" height="48">
 </p>
 
-<sub>TypeScript / JavaScript / Python / Go / Rust / Java / C# / C++ / PHP / HTML5 / CSS3 / SQL</sub>
+<sub>TypeScript / JavaScript / Python / Go / Rust / Java / Kotlin / C# / C++ / PHP / HTML5 / CSS3 / SQL</sub>
 
 **Frontend & mobile**
 
@@ -125,6 +126,7 @@ For developer tools, AI benchmarks, and thoughtful products: **[get in touch](ma
   <img src="assets/tech/react.svg" alt="React and React Native" title="React / React Native" width="48" height="48">
   <img src="assets/tech/nextjs.svg" alt="Next.js" title="Next.js" width="48" height="48">
   <img src="assets/tech/expo.svg" alt="Expo" title="Expo" width="48" height="48">
+  <img src="assets/tech/flutter.svg" alt="Flutter" title="Flutter" width="48" height="48">
   <img src="assets/tech/redux.svg" alt="Redux" title="Redux" width="48" height="48">
   <img src="assets/tech/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48">
   <img src="assets/tech/materialui.svg" alt="Material UI" title="Material UI" width="48" height="48">
@@ -132,7 +134,7 @@ For developer tools, AI benchmarks, and thoughtful products: **[get in touch](ma
   <img src="assets/tech/vitejs.svg" alt="Vite" title="Vite" width="48" height="48">
 </p>
 
-<sub>React / Next.js / React Native / Expo / Redux / Context API / Tailwind CSS / Material UI / styled-components / Vite / React Native SVG</sub>
+<sub>React / Next.js / React Native / Expo / Flutter / Redux / Context API / Tailwind CSS / Material UI / styled-components / Vite / React Native SVG</sub>
 
 **Backend & data**
 
