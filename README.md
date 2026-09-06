@@ -1,66 +1,98 @@
-# Nafiyad Adane Gudina
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nafiyad/nafiyad/main/assets/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nafiyad/nafiyad/main/assets/profile-light.svg">
+  <img alt="Nafiyad Adane Gudina. Software developer in Calgary, Canada, working across applied AI and full-stack development." src="https://raw.githubusercontent.com/nafiyad/nafiyad/main/assets/profile-light.svg" width="100%">
+</picture>
 
-**Software Developer | Applied AI & Full-Stack Development**  
-Calgary, Canada
+<br>
 
-I build developer tools, design benchmarks for AI agents, and develop full-stack products. My work spans deterministic security tooling, local-first mobile applications, and practical machine learning.
+**Software developer based in Calgary, Canada.**  
+I build developer tools, design benchmarks for AI agents, and develop full-stack products.
 
-[LinkedIn](https://www.linkedin.com/in/nafiyad/) | [Email](mailto:nafiadg@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/nafiyad/"><strong>LinkedIn</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="mailto:nafiadg@gmail.com"><strong>Email</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="#selected-work"><strong>Selected work</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="#open-source"><strong>Open source</strong></a>
+</p>
 
-## Selected Projects
+> **Currently at Handshake**  
+> AI Trainer - Software Engineering, contract | March 2026 - Present  
+> I design challenging terminal tasks, golden reference solutions, and fail-to-pass tests that measure how well AI agents explore environments, run code, and solve multi-step engineering problems.
+
+## Selected work
+
+<sub>01 &nbsp; DEVELOPER SECURITY TOOLING</sub>
 
 ### [AgentHawk](https://github.com/nafiyad/AgentHawk)
-**Developer security tooling | TypeScript, Node.js, OSV, GitHub Actions**
+A local-first dependency gate for AI coding agents. Deterministic repository policies, vulnerability evidence, and explainable CLI results, without executing package code during evaluation.
 
-A local-first tool for checking dependencies proposed by AI coding agents against explicit repository policies. It combines deterministic decisions, vulnerability evidence, and explainable CLI output without executing package code during evaluation.
-
-Core and CLI packages are available as public npm alphas. The alpha is not a complete security control.
-
-### Expenza
-**Personal finance & budgeting | React Native, Expo, TypeScript, SQLite**
-
-A privacy-focused mobile app for income, expenses, accounts, budgets, savings goals, and recurring bills. Core tracking works offline without sign-up or bank connections.
-
-Built local SQLite persistence and migrations, validated CSV imports, password-encrypted backups, and an animated SVG Flow Ribbon for spending and remaining budget. Includes accessible light and dark themes. Source code is not public.
-
-### [Football Predictor Pro](https://github.com/nafiyad/Football-Predictor-Pro)
-**Machine-learning prototype | Python, scikit-learn, XGBoost, LightGBM**
-
-A workflow for turning historical match data into features, comparing prediction models, and evaluating results on held-out data. Includes model-training, prediction, and testing code. An experimental project, not a promise of real-world forecasting accuracy.
-
-## Experience
-
-- **Handshake | AI Trainer - Software Engineering, contract**  
-  March 2026 - Present. Design challenging command-line engineering tasks that test how AI agents explore environments, run code, and solve multi-step problems. Develop golden reference solutions and fail-to-pass tests to measure model performance and identify capability limits.
-
-- **Mercor | AI Safety Expert - Red Team, contract**  
-  June - July 2026. Structured LLM testing, quality analysis, and documented findings for software-engineering engagements.
-
-- **Aden | Open Source AI Agent Developer**  
-  January - April 2026. Contributed a Wikipedia search tool and a competitive-intelligence agent to the Hive framework. Both contributions were merged; links below.
-
-- **S&M Couture | Full Stack Engineer, co-op / capstone**  
-  January - April 2025. Built Next.js and React features for an e-commerce platform, including Stripe checkout and PostgreSQL integration through Prisma and Neon.
-
-## Open-Source Contributions
-
-- [Wikipedia search tool - aden-hive/hive #1814](https://github.com/aden-hive/hive/pull/1814): search functionality with error-handling tests.
-- [Competitive-intelligence agent - aden-hive/hive #5179](https://github.com/aden-hive/hive/pull/5179): a multi-step agent that produces structured intelligence digests.
-
-## Tools & Practices
-
-| Area | Technologies and practices |
-| --- | --- |
-| Applied AI | Python, scikit-learn, XGBoost, LightGBM, LLM evaluation, benchmark design |
-| Web & mobile | TypeScript, React, Next.js, React Native, Expo, accessible interfaces |
-| Backend & data | Node.js, REST APIs, PostgreSQL, SQLite, Prisma |
-| Engineering quality | Automated testing, GitHub Actions, Docker, CI/CD, code review |
-
-## Education
-
-**Software Development, Bow Valley College**  
-2023 - 2025 | Graduated with Distinction | GPA 3.73/4.0
+**TypeScript / Node.js / OSV / GitHub Actions**  
+<sub>Public npm alpha. Not a complete security control.</sub>
 
 ---
 
-Interested in discussing developer tools, AI benchmarks, or a product idea? [Get in touch](mailto:nafiadg@gmail.com).
+<sub>02 &nbsp; LOCAL-FIRST MOBILE DEVELOPMENT</sub>
+
+### Expenza
+A privacy-focused budgeting app for income, expenses, accounts, savings goals, and recurring bills. Works offline without sign-up or bank connections.
+
+SQLite migrations, validated CSV imports, encrypted backups, an animated SVG Flow Ribbon, and accessible light and dark themes.
+
+**React Native / Expo / TypeScript / SQLite**  
+<sub>Independent project. Source code is not public.</sub>
+
+---
+
+<sub>03 &nbsp; APPLIED MACHINE LEARNING</sub>
+
+### [Football Predictor Pro](https://github.com/nafiyad/Football-Predictor-Pro)
+A machine-learning prototype for turning historical match data into features, comparing models, and evaluating predictions on held-out data. Includes training, prediction, and testing workflows.
+
+**Python / scikit-learn / XGBoost / LightGBM**  
+<sub>Experimental prototype, not a claim of reliable real-world forecasting.</sub>
+
+## Open source
+
+Two merged contributions to **[Aden Hive](https://github.com/aden-hive/hive)**:
+
+- **[Wikipedia search tool](https://github.com/aden-hive/hive/pull/1814)**: search functionality with error-handling tests.
+- **[Competitive-intelligence agent](https://github.com/aden-hive/hive/pull/5179)**: a multi-step agent that produces structured intelligence digests.
+
+## Toolkit
+
+**Applied AI**  
+Python, scikit-learn, XGBoost, LightGBM, LLM evaluation, benchmark design
+
+**Web & mobile**  
+TypeScript, React, Next.js, React Native, Expo, accessible interfaces
+
+**Backend & quality**  
+Node.js, REST APIs, PostgreSQL, SQLite, Prisma, automated testing, GitHub Actions, Docker, CI/CD
+
+<details>
+<summary><strong>Earlier experience & education</strong></summary>
+
+<br>
+
+**Mercor | AI Safety Expert - Red Team, contract**  
+June - July 2026. Structured LLM testing, quality analysis, and documented findings for software-engineering engagements.
+
+**Aden | Open Source AI Agent Developer**  
+January - April 2026. Contributed the Wikipedia search tool and competitive-intelligence agent linked above.
+
+**S&M Couture | Full Stack Engineer, co-op / capstone**  
+January - April 2025. Built Next.js and React features for an e-commerce platform, including Stripe checkout and PostgreSQL integration through Prisma and Neon.
+
+**Software Development | Bow Valley College**  
+2023 - 2025. Graduated with Distinction. GPA 3.73/4.0.
+
+</details>
+
+---
+
+### Let's build something useful.
+For developer tools, AI benchmarks, and thoughtful products: **[get in touch](mailto:nafiadg@gmail.com)**.
