@@ -96,3 +96,84 @@ January - April 2025. Built Next.js and React features for an e-commerce platfor
 
 ### Let's build something useful.
 For developer tools, AI benchmarks, and thoughtful products: **[get in touch](mailto:nafiadg@gmail.com)**.
+
+---
+
+## Tech stack
+
+**Languages**
+
+<p>
+  <img src="assets/tech/typescript.svg" alt="TypeScript" title="TypeScript" width="48" height="48">
+  <img src="assets/tech/javascript.svg" alt="JavaScript" title="JavaScript" width="48" height="48">
+  <img src="assets/tech/python.svg" alt="Python" title="Python" width="48" height="48">
+  <img src="assets/tech/java.svg" alt="Java" title="Java" width="48" height="48">
+  <img src="assets/tech/csharp.svg" alt="C#" title="C#" width="48" height="48">
+  <img src="assets/tech/cplusplus.svg" alt="C++" title="C++" width="48" height="48">
+  <img src="assets/tech/php.svg" alt="PHP" title="PHP" width="48" height="48">
+  <img src="assets/tech/html5.svg" alt="HTML5" title="HTML5" width="48" height="48">
+  <img src="assets/tech/css3.svg" alt="CSS3" title="CSS3" width="48" height="48">
+</p>
+
+<sub>TypeScript / JavaScript / Python / Java / C# / C++ / PHP / HTML5 / CSS3 / SQL</sub>
+
+**Frontend & mobile**
+
+<p>
+  <img src="assets/tech/react.svg" alt="React and React Native" title="React / React Native" width="48" height="48">
+  <img src="assets/tech/nextjs.svg" alt="Next.js" title="Next.js" width="48" height="48">
+  <img src="assets/tech/expo.svg" alt="Expo" title="Expo" width="48" height="48">
+  <img src="assets/tech/redux.svg" alt="Redux" title="Redux" width="48" height="48">
+  <img src="assets/tech/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48">
+  <img src="assets/tech/materialui.svg" alt="Material UI" title="Material UI" width="48" height="48">
+  <img src="assets/tech/styledcomponents.svg" alt="styled-components" title="styled-components" width="48" height="48">
+  <img src="assets/tech/vitejs.svg" alt="Vite" title="Vite" width="48" height="48">
+</p>
+
+<sub>React / Next.js / React Native / Expo / Redux / Context API / Tailwind CSS / Material UI / styled-components / Vite / React Native SVG</sub>
+
+**Backend & data**
+
+<p>
+  <img src="assets/tech/nodejs.svg" alt="Node.js" title="Node.js" width="48" height="48">
+  <img src="assets/tech/express.svg" alt="Express" title="Express" width="48" height="48">
+  <img src="assets/tech/prisma.svg" alt="Prisma" title="Prisma" width="48" height="48">
+  <img src="assets/tech/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="48" height="48">
+  <img src="assets/tech/sqlite.svg" alt="SQLite" title="SQLite" width="48" height="48">
+  <img src="assets/tech/mysql.svg" alt="MySQL" title="MySQL" width="48" height="48">
+  <img src="assets/tech/mongodb.svg" alt="MongoDB" title="MongoDB" width="48" height="48">
+  <img src="assets/tech/firebase.svg" alt="Firebase" title="Firebase" width="48" height="48">
+  <img src="assets/tech/supabase.svg" alt="Supabase" title="Supabase" width="48" height="48">
+  <img src="assets/tech/neon.svg" alt="Neon" title="Neon" width="48" height="48">
+  <img src="assets/tech/stripe.svg" alt="Stripe" title="Stripe" width="48" height="48">
+</p>
+
+<sub>Node.js / Express / Prisma / PostgreSQL / SQLite / MySQL / MongoDB / Firebase / Supabase / Neon / Stripe / REST APIs</sub>
+
+**Cloud & delivery**
+
+<p>
+  <img src="assets/tech/amazonwebservices.svg" alt="AWS" title="Amazon Web Services" width="48" height="48">
+  <img src="assets/tech/azure.svg" alt="Azure" title="Microsoft Azure" width="48" height="48">
+  <img src="assets/tech/docker.svg" alt="Docker" title="Docker" width="48" height="48">
+  <img src="assets/tech/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="48" height="48">
+  <img src="assets/tech/git.svg" alt="Git" title="Git" width="48" height="48">
+  <img src="assets/tech/githubactions.svg" alt="GitHub Actions" title="GitHub Actions" width="48" height="48">
+  <img src="assets/tech/jenkins.svg" alt="Jenkins" title="Jenkins" width="48" height="48">
+  <img src="assets/tech/vercel.svg" alt="Vercel" title="Vercel" width="48" height="48">
+  <img src="assets/tech/netlify.svg" alt="Netlify" title="Netlify" width="48" height="48">
+</p>
+
+<sub>AWS / Azure / Docker / Kubernetes / Git / GitHub Actions / Jenkins / Vercel / Netlify / CI/CD</sub>
+
+**AI, testing & design**
+
+<p>
+  <img src="assets/tech/scikitlearn.svg" alt="scikit-learn" title="scikit-learn" width="48" height="48">
+  <img src="assets/tech/n8n.svg" alt="n8n" title="n8n" width="48" height="48">
+  <img src="assets/tech/jest.svg" alt="Jest" title="Jest" width="48" height="48">
+  <img src="assets/tech/testinglibrary.svg" alt="Testing Library" title="React Testing Library" width="48" height="48">
+  <img src="assets/tech/figma.svg" alt="Figma" title="Figma" width="48" height="48">
+</p>
+
+<sub>scikit-learn / XGBoost / LightGBM / OpenAI API / n8n / Jest / React Testing Library / Figma</sub>
