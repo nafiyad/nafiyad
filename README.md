@@ -107,6 +107,8 @@ For developer tools, AI benchmarks, and thoughtful products: **[get in touch](ma
   <img src="assets/tech/typescript.svg" alt="TypeScript" title="TypeScript" width="48" height="48">
   <img src="assets/tech/javascript.svg" alt="JavaScript" title="JavaScript" width="48" height="48">
   <img src="assets/tech/python.svg" alt="Python" title="Python" width="48" height="48">
+  <img src="assets/tech/go.svg" alt="Go" title="Go" width="48" height="48">
+  <img src="assets/tech/rust.svg" alt="Rust" title="Rust" width="48" height="48">
   <img src="assets/tech/java.svg" alt="Java" title="Java" width="48" height="48">
   <img src="assets/tech/csharp.svg" alt="C#" title="C#" width="48" height="48">
   <img src="assets/tech/cplusplus.svg" alt="C++" title="C++" width="48" height="48">
@@ -115,7 +117,7 @@ For developer tools, AI benchmarks, and thoughtful products: **[get in touch](ma
   <img src="assets/tech/css3.svg" alt="CSS3" title="CSS3" width="48" height="48">
 </p>
 
-<sub>TypeScript / JavaScript / Python / Java / C# / C++ / PHP / HTML5 / CSS3 / SQL</sub>
+<sub>TypeScript / JavaScript / Python / Go / Rust / Java / C# / C++ / PHP / HTML5 / CSS3 / SQL</sub>
 
 **Frontend & mobile**
 
