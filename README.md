@@ -1,85 +1,66 @@
-<div align="center">
-  <h1>Nafiyad Adane Gudina</h1>
-  <p><strong>Full Stack Developer · React · TypeScript · Python · Node.js · AI/ML</strong></p>
-  <p>Calgary, AB, Canada · PGWP · Open to Work</p>
-</div>
+# Nafiyad Adane Gudina
 
-<div align="center">
-  <a href="https://nafiyad.ca"><img src="https://img.shields.io/badge/Portfolio-nafiyad.ca-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:nafiadg@gmail.com"><img src="https://img.shields.io/badge/Email-nafiadg@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nafiyad-adane-g-041a04200/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
+**Software Developer | Applied AI & Full-Stack Development**  
+Calgary, Canada
 
----
+I build developer tools, design benchmarks for AI agents, and develop full-stack products. My work spans deterministic security tooling, local-first mobile applications, and practical machine learning.
 
-## About
+[LinkedIn](https://www.linkedin.com/in/nafiyad/) | [Email](mailto:nafiadg@gmail.com)
 
-Full Stack Software Developer with **3+ years** of hands-on experience across student projects, a professional co-op, and open-source AI agent contributions.
+## Selected Projects
 
-- 🚀 Shipped **Expenza** — a cross-platform finance app — to **Google Play Store** and **iOS TestFlight** solo
-- 💼 Built production features for a live platform at **S&M Couture** (Next.js, Prisma ORM, Stripe)
-- 🤖 Active open-source contributor to **aden-hive/hive** AI agent framework — 2 merged PRs
-- 🎓 Software Development, **Bow Valley College** — GPA 3.73/4.0, Graduated with Distinction
+### [AgentHawk](https://github.com/nafiyad/AgentHawk)
+**Developer security tooling | TypeScript, Node.js, OSV, GitHub Actions**
 
----
+A local-first tool for checking dependencies proposed by AI coding agents against explicit repository policies. It combines deterministic decisions, vulnerability evidence, and explainable CLI output without executing package code during evaluation.
 
-## Featured Projects
+Core and CLI packages are available as public npm alphas. The alpha is not a complete security control.
 
-| Project | Description | Tech | Links |
-|---------|-------------|------|-------|
-| **Expenza** | Cross-platform personal finance app shipped to Google Play Store & iOS TestFlight — built solo end-to-end | React Native, Node.js, Supabase, AWS, CI/CD | Private |
-| **Football Predictor Pro** | ML desktop app — 65% prediction accuracy vs 50% baseline using XGBoost/LightGBM ensemble | Python, XGBoost, LightGBM, scikit-learn, SQLite | [Repo](https://github.com/nafiyad/Football-Predictor-Pro) |
-| **Taskly** | AI-powered task management app with OpenAI API integration for intelligent task prioritization | React, TypeScript, Node.js, Supabase, OpenAI API | Private |
-| **aden-hive/hive** | Open-source AI agent framework — contributed Wikipedia Search Tool (PR #1814) & Competitive Intelligence Agent (PR #5179) | Python, AI Agents | [Repo](https://github.com/nafiyad/hive) |
+### Expenza
+**Personal finance & budgeting | React Native, Expo, TypeScript, SQLite**
 
----
+A privacy-focused mobile app for income, expenses, accounts, budgets, savings goals, and recurring bills. Core tracking works offline without sign-up or bank connections.
 
-## Tech Stack
+Built local SQLite persistence and migrations, validated CSV imports, password-encrypted backups, and an animated SVG Flow Ribbon for spending and remaining budget. Includes accessible light and dark themes. Source code is not public.
 
-**Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+### [Football Predictor Pro](https://github.com/nafiyad/Football-Predictor-Pro)
+**Machine-learning prototype | Python, scikit-learn, XGBoost, LightGBM**
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+A workflow for turning historical match data into features, comparing prediction models, and evaluating results on held-out data. Includes model-training, prediction, and testing code. An experimental project, not a promise of real-world forecasting accuracy.
 
-**Backend & Cloud**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+## Experience
 
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- **Handshake | AI Trainer - Software Engineering, contract**  
+  March 2026 - Present. Design challenging command-line engineering tasks that test how AI agents explore environments, run code, and solve multi-step problems. Develop golden reference solutions and fail-to-pass tests to measure model performance and identify capability limits.
 
-**AI / ML**
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+- **Mercor | AI Safety Expert - Red Team, contract**  
+  June - July 2026. Structured LLM testing, quality analysis, and documented findings for software-engineering engagements.
+
+- **Aden | Open Source AI Agent Developer**  
+  January - April 2026. Contributed a Wikipedia search tool and a competitive-intelligence agent to the Hive framework. Both contributions were merged; links below.
+
+- **S&M Couture | Full Stack Engineer, co-op / capstone**  
+  January - April 2025. Built Next.js and React features for an e-commerce platform, including Stripe checkout and PostgreSQL integration through Prisma and Neon.
+
+## Open-Source Contributions
+
+- [Wikipedia search tool - aden-hive/hive #1814](https://github.com/aden-hive/hive/pull/1814): search functionality with error-handling tests.
+- [Competitive-intelligence agent - aden-hive/hive #5179](https://github.com/aden-hive/hive/pull/5179): a multi-step agent that produces structured intelligence digests.
+
+## Tools & Practices
+
+| Area | Technologies and practices |
+| --- | --- |
+| Applied AI | Python, scikit-learn, XGBoost, LightGBM, LLM evaluation, benchmark design |
+| Web & mobile | TypeScript, React, Next.js, React Native, Expo, accessible interfaces |
+| Backend & data | Node.js, REST APIs, PostgreSQL, SQLite, Prisma |
+| Engineering quality | Automated testing, GitHub Actions, Docker, CI/CD, code review |
+
+## Education
+
+**Software Development, Bow Valley College**  
+2023 - 2025 | Graduated with Distinction | GPA 3.73/4.0
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafiyad&theme=tokyonight" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nafiyad&theme=tokyonight" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafiyad&theme=tokyonight" height="150"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nafiyad&color=blue&style=flat&label=Profile+Views"/>
-</div>
+Interested in discussing developer tools, AI benchmarks, or a product idea? [Get in touch](mailto:nafiadg@gmail.com).
