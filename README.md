@@ -111,6 +111,7 @@ For developer tools, AI benchmarks, and thoughtful products: **[get in touch](ma
   <img src="assets/tech/rust.svg" alt="Rust" title="Rust" width="48" height="48">
   <img src="assets/tech/java.svg" alt="Java" title="Java" width="48" height="48">
   <img src="assets/tech/kotlin.svg" alt="Kotlin" title="Kotlin" width="48" height="48">
+  <img src="assets/tech/dart.svg" alt="Dart" title="Dart" width="48" height="48">
   <img src="assets/tech/csharp.svg" alt="C#" title="C#" width="48" height="48">
   <img src="assets/tech/cplusplus.svg" alt="C++" title="C++" width="48" height="48">
   <img src="assets/tech/php.svg" alt="PHP" title="PHP" width="48" height="48">
@@ -118,7 +119,7 @@ For developer tools, AI benchmarks, and thoughtful products: **[get in touch](ma
   <img src="assets/tech/css3.svg" alt="CSS3" title="CSS3" width="48" height="48">
 </p>
 
-<sub>TypeScript / JavaScript / Python / Go / Rust / Java / Kotlin / C# / C++ / PHP / HTML5 / CSS3 / SQL</sub>
+<sub>TypeScript / JavaScript / Python / Go / Rust / Java / Kotlin / Dart / C# / C++ / PHP / HTML5 / CSS3 / SQL</sub>
 
 **Frontend & mobile**
 
